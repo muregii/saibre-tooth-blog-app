@@ -1,5 +1,5 @@
 {
-  "name": "ix-blog-app",
+  "name": "saibre-tooth-blog-app",
   "version": "1.0.0",
   "description": "This is the backend server for my awesome blog app",
   "main": "./src/index.js",
